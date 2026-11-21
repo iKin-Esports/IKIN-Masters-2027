@@ -1,4 +1,4 @@
-# IKIN Master 2027
+# IKIN Masters 2027
 
 ## Event Dates
 - **Online Play‑In**: January 3 ‑ January 4, 2027
