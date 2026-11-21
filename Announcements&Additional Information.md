@@ -31,8 +31,11 @@ If fewer than 4 teams remain registered after the registration window, the event
 | Jan 4 | Round‑of‑8 | 
 
 > Round-of-8 matchs winner advance to LAN Finals.
+
 > Teams would need to comforn attend LAN Finals or not within 24 hours after teams Round-of-8 match ends.
+
 > If team fails to confirm within 24 hours, we will assume they will participate in the LAN Finals.
+
 > If team refuse to participate LAN Finals, we will invite 5th-8th Play-In teams to substitute for the LAN Finals From the order of VRS point high to low.
 
 ### LAN Finals (Offline, January 2026)
