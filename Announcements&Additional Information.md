@@ -34,7 +34,7 @@ If fewer than 8 teams remain registered after the registration window, the event
 
 > Teams would need to comforn attend LAN Finals or not within 24 hours after teams Round-of-8 match ends.
 
-> If team fails to confirm within 24 hours, we will assume they will participate in the LAN Finals. If team exit activity after this time, they will be set FF in upcoming matchs.
+> If team fails to confirm within 24 hours, we will assume they will participate in the LAN Finals. If team exit activity after this time, they will be recorded as a forfeit (FF) in upcoming matchs.
 
 > If team refuse to participate LAN Finals, we will invite 5th-8th Play-In teams from the order of VRS point high to low to substitute for the LAN Finals.
 
