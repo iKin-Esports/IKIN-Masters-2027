@@ -8,7 +8,7 @@
 - **Visa Region**: Mainland China
 - **VRS Tier**: Tier 2, Open‑registration tournament (open to teams from all global regions)
 - **Registration Fee**: **$300 USD**
-- **Registration Window**: December 13 ‑ December 21, 2026
+- **Registration Window**: December 26 ‑ December 30, 2026
 
 > The registration link will be published on December 13th via iKin Github and iKin Web.
 
@@ -72,9 +72,9 @@ If fewer than 4 teams remain registered after the registration window, the event
 > Official Notices: All tournament‑related communications will be sent exclusively to the email address provided on the registration form.
 
 ## Refund & Withdrawal Policy
-- **December 13 ‑ December 23, 2026**: 100% registration-fee refund.
-- **December 24 ‑ December 27, 2026**:  80% of the registration fee will be refunded upon withdrawal.
-- **December 28, 2026 (Roster Lock)**:  No refunds granted.
+- **December 26 ‑ December 30, 2026**: 100% registration-fee refund.
+- **December 31 ‑ January 1, 2026**:  80% of the registration fee will be refunded upon withdrawal.
+- **January 2, 2026 (Roster Lock)**:  No refunds granted.
 
 > The event roster will be locked on September 30, 2026. No withdrawals are permitted after the Roster Lock deadline. Any registered team failing to play its scheduled matches will be recorded as a forfeit (FF), and no registration-fee refund will be issued.
 
