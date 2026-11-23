@@ -76,7 +76,7 @@ If fewer than 8 teams remain registered after the registration window, the event
 - **December 31, 2026 ‑ January 1, 2027**:  80% of the registration fee will be refunded upon withdrawal.
 - **January 2, 2027 (Roster Lock)**:  No refunds granted.
 
-> The event roster will be locked on September 30, 2026. No withdrawals are permitted after the Roster Lock deadline. Any registered team failing to play its scheduled matches will be recorded as a forfeit (FF), and no registration-fee refund will be issued.
+> The Online Play-In roster will be locked on January 2, 2026. No withdrawals are permitted after the Roster Lock deadline. Any registered team failing to play its scheduled matches will be recorded as a forfeit (FF), and no registration-fee refund will be issued.
 
 ## Registration Eligibility Rule
 ### Single Organization Rule
