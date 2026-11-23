@@ -18,7 +18,7 @@
 
 ## Supplementary Provisions
 
-If fewer than 4 teams remain registered after the registration window, the event will be cancelled for failing to meet minimum competition requirements. Full refunds of registration fees will be issued to all registered teams.
+If fewer than 8 teams remain registered after the registration window, the event will be cancelled for failing to meet minimum competition requirements. Full refunds of registration fees will be issued to all registered teams.
 
 ## Format
 ### Play‑In (Online, January 2026)
